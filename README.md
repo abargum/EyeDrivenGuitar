@@ -2,7 +2,7 @@
 
 <img src="image.png" width="600">
 
-This is the public github page for demoing the "Eye Driven Guitar" in the multi sensory experience lab at Aalborg University in Copenhagen. The "Eye Driven Guitar" guitar was made to allow people with motion dissabilities to explore sound, in this case through playing and manipulating a guitar and an amplifiers using eye-tracking. All sounds has been made using physical modelling (for the guitar) and virtual analog simulations (the amplifier).
+This is the public github page for demoing the "Eye Driven Guitar" in the multi sensory experience lab at Aalborg University in Copenhagen. The "Eye Driven Guitar" guitar was made to allow people with motion dissabilities to explore sound, in this case through playing and manipulating a guitar and a Marshal MG10 amplifier using eye-tracking. All sounds have been made using physical modelling (for the guitar) and virtual analog simulations (for the amplifier).
 
 ## Setup
 To set up the program, please follow these steps:
